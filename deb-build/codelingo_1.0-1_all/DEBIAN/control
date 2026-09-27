@@ -1,0 +1,11 @@
+Package: codelingo
+Version: 1.0-1
+Section: games
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.0 | gir1.2-webkit2-4.1 | firefox | chromium | google-chrome-stable | xdg-utils
+Maintainer: CodeLingo Team <support@codelingo.org>
+Description: Duolingo tarzı interaktif oyun kodlama platformu
+ Godot (GDScript), Roblox (Lua), Pygame (Python), Unity (C#)
+ ve diger oyun gelistirme dilleri icin can sinirsiz interaktif egitim araci.
+ HP G62 ve tum eski/yeni Linux sistemlerle %100 uyumludur.

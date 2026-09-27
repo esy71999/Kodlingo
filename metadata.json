@@ -1,0 +1,6 @@
+{
+  "name": "CodeLingo",
+  "description": "Duolingo tarzı oyun ve kodlama dilleri öğrenme platformu (Python, Lua, GDScript, C#, C++, JS, Rust). Can sistemi yok, sınırsız pratik!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
